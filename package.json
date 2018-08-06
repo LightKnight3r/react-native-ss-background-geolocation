@@ -1,0 +1,37 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-ss-background-geolocation@1.0.0",
+        "scope": null,
+        "escapedName": "react-native-ss-background-geolocation",
+        "name": "react-native-ss-background-geolocation"
+      }
+    ]
+  ],
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-ss-background-geolocation@^1.0.0",
+    "scope": null,
+    "escapedName": "react-native-ss-background-geolocation",
+    "name": "react-native-ss-background-geolocation"
+  },
+  "author": {
+    "name": "Minn",
+    "email": "minph1996@gmail.com"
+  },
+  "dependencies": {},
+  "description": "React Native module to track location",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android"
+  ],
+  "main": "index.js",
+  "name": "react-native-ss-background-geolocation",
+  "scripts": {},
+  "version": "1.0.0"
+}
